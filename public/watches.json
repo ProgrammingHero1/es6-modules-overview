@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "name": "Apple Watch Series 77",
+      "price": 399
+    },
+    {
+      "id": 2,
+      "name": "Galaxy Watch 4",
+      "price": 249
+    },
+    {
+      "id": 3,
+      "name": "Fitbit Versa 3",
+      "price": 229
+    },
+    {
+      "id": 4,
+      "name": "Garmin Venu 2",
+      "price": 399
+    },
+    {
+      "id": 5,
+      "name": "Huawei Watch GT 3",
+      "price": 299
+    }
+  ]
+  
